@@ -1,1 +1,1 @@
-mi proyectyo adso por postgreSql
+mi proyecto adso por postgreSql 
