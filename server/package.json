@@ -1,0 +1,22 @@
+{
+  "name": "adso-polyglot-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "backend para el adso poliglota",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keymords": [],
+  "author": "Keissy Benitez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.8",
+    "morgan": "^1.12.1",
+    "pg": "^8.23.1"
+  }
+}
